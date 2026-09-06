@@ -1,0 +1,12 @@
+.env
+gcp-key.json
+dbt/profiles.yml
+.venv/
+__pycache__/
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+dbt/.user.yml
+logs/
+data/olist/
+*.pyc

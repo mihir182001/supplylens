@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: olist_raw
+    database: "supplylens-507809"
+    schema: supplylens_raw
+    tables:
+      - name: orders
+      - name: order_items
+      - name: products
+      - name: sellers
+      - name: customers
+      - name: order_reviews
