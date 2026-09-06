@@ -5,7 +5,7 @@ dataset (1.5M+ rows): BigQuery + dbt semantic layer, statistical root-cause
 analysis, a live Looker Studio dashboard, and a Claude-powered AI insight
 generator.
 
-**Live dashboard:** [add your Looker Studio link here]
+**Live dashboard:** https://datastudio.google.com/s/liBPla3WNg4
 
 ## What this does
 
